@@ -76,4 +76,6 @@ dependencies {
     implementation(libs.hilt.android)
     kapt(libs.dagger.hilt.compiler)
     implementation (libs.androidx.hilt.navigation.compose)
+
+    implementation(libs.androidx.core.splashscreen)
 }
