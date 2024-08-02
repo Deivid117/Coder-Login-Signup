@@ -7,7 +7,7 @@ import com.dwh.coder_login_signup.login.navigation.loginRoute
 import com.dwh.coder_login_signup.signup.navigation.signupRoute
 
 @Composable
-fun NavHost(navController: NavHostController) {
+fun Navigation(navController: NavHostController) {
     NavHost(
         navController = navController,
         startDestination = AppScreen.Login.name
