@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Coder</string>
+
+    <string name="login">Ingreso</string>
+    <string name="login_checkbox_remember_me">Recordarme</string>
+    <string name="login_forgotten_password">Contraseña olvidada?</string>
+    <string name="login_email_textfield_label">Correo electrónico</string>
+    <string name="login_email_textfield_placeholder">Ingresar correo electrónico</string>
+    <string name="login_password_textfield_label">Contraseña</string>
+    <string name="login_password_textfield_placeholder">Ej: abcABC#123</string>
+    <string name="login_dont_have_account">No tienes una cuenta?</string>
+    <string name="login_sign_up">Registrarse</string>
+    <string name="login_email_error1">Campo vacío</string>
+    <string name="login_email_error2">Correo inválido</string>
+    <string name="login_password_error1">Campo vacío</string>
+    <string name="login_password_error2">Contraseña incorrecta</string>
+    <string name="login_snackbar_message1">Se presionó el botón Ingresar.</string>
+    <string name="login_snackbar_message2">Se activó Recordar.</string>
+    <string name="login_snackbar_message3">Se desactivó Recordar.</string>
+    <string name="login_snackbar_message4">Envía a resetear la contraseña.</string>
+    <string name="login_button_name">Ingresar</string>
+
+    <string name="signup">Registro</string>
+    <string name="signup_button_name">Crear cuenta</string>
+    <string name="signup_have_account">Ya tienes una cuenta?</string>
+    <string name="signup_login">Ingresar</string>
+    <string name="signup_email_textfield_label">Correo electrónico</string>
+    <string name="signup_email_textfield_placeholder">Ingresar correo electrónico</string>
+    <string name="signup_phone_number_textfield_label">Número de teléfono</string>
+    <string name="signup_phone_number_textfield_placeholder">Ej: +54 12345678</string>
+    <string name="signup_password_textfield_label">Contraseña</string>
+    <string name="signup_password_textfield_placeholder">Ej: abcABC#123</string>
+    <string name="signup_confirm_password_textfield_label">Confirmar contraseña</string>
+    <string name="signup_confirm_password_textfield_placeholder">Reingresar contraseña</string>
+    <string name="signup_email_error1">Campo vacío</string>
+    <string name="signup_email_error2">Correo inválido</string>
+    <string name="signup_phone_number_error1">Campo vacío</string>
+    <string name="signup_phone_number_error2">Número inválido</string>
+    <string name="signup_password_error1">Campo vacío</string>
+    <string name="signup_password_error2">Debe contener al menos una letra minúscula y mayúscula</string>
+    <string name="signup_password_error3">Debe contener al menos un dígito</string>
+    <string name="signup_password_error4">Debe contener al menos un caracter especial</string>
+    <string name="signup_password_error5">Contraseña débil</string>
+    <string name="signup_confirm_password_error1">La contraseña no coincide</string>
+    <string name="signup_snackbar_message">Se presionó el botón Crear cuenta.</string>
+
+</resources>
