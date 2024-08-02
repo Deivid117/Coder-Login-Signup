@@ -17,7 +17,7 @@ Para la pantalla de signup se agregaron validaciones adicionales para el formula
 - Validación de campo vacío: Se validó que el campo de email, contraseña y número de teléfono no se encuentre vacío.
 - Validación de email: Se validó que el email ingresado cuenta con las características principales para ser considera un email válido mediante una expresión regular.
 - Validación para número de teléfono: Se validó que únicamente se puedan agregar números y no algún otro caracter especial o letras.
-- Validación para contraseña: Se hicieron varias validaciones para escribir una contraseña. Debe contener al menos una letra minúscula, mayúscula, número y caracter especial, así como también para que esta contenga mínimo 10 caracteres.
+- Validación para contraseña: Se hicieron varias validaciones para escribir una contraseña. Debe contener al menos una letra minúscula, mayúscula, número y caracter especial mediante expresiones regulares, así como también para que esta contenga mínimo 10 caracteres.
 
 ## Capturas de la aplicación
 ![login_light](https://github.com/user-attachments/assets/8e0588a2-f5a3-4519-b240-374a9882ce8d)
